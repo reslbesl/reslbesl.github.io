@@ -7,28 +7,28 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/reslbesl/";
+      window.location.href = "/";
     },
   },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/reslbesl/blog/";
+            window.location.href = "/blog/";
           },
         },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/reslbesl/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-cv",
           title: "cv",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/reslbesl/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "post-on-the-fundamental-limits-of-privacy-enhancing-technologies",
         
@@ -38,7 +38,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/reslbesl/blog/2024/phd/";
+            window.location.href = "/blog/2024/phd/";
           
         },
       },{id: "post-privacy-preserving-data-sharing-and-the-european-data-strategy",
@@ -49,7 +49,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/reslbesl/blog/2024/brussels/";
+            window.location.href = "/blog/2024/brussels/";
           
         },
       },{id: "post-rethinking-data",
@@ -60,7 +60,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/reslbesl/blog/2023/cpdp/";
+            window.location.href = "/blog/2023/cpdp/";
           
         },
       },{id: "post-synthetic-data-anonymisation-groundhog-day",
@@ -71,7 +71,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/reslbesl/blog/2021/synthetic/";
+            window.location.href = "/blog/2021/synthetic/";
           
         },
       },{id: "post-analysis-of-the-potential-harms-in-the-luca-tracing-system",
@@ -82,7 +82,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/reslbesl/blog/2021/luca/";
+            window.location.href = "/blog/2021/luca/";
           
         },
       },{id: "post-die-risiken-des-luca-systems",
@@ -93,7 +93,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/reslbesl/blog/2021/luca-de/";
+            window.location.href = "/blog/2021/luca-de/";
           
         },
       },{id: "news-invited-talk-at-the-university-of-bern-about-synthetic-data-in-medicine",
@@ -121,17 +121,17 @@ ninja.data = [{
           title: 'Analysis of Real-World Systems',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/reslbesl/projects/analysis_project/";
+              window.location.href = "/projects/analysis_project/";
             },},{id: "projects-system-design",
           title: 'System Design',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/reslbesl/projects/design_project/";
+              window.location.href = "/projects/design_project/";
             },},{id: "projects-design-of-evaluation-frameworks",
           title: 'Design of Evaluation Frameworks',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/reslbesl/projects/evaluation_project/";
+              window.location.href = "/projects/evaluation_project/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -151,7 +151,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/reslbesl/feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
