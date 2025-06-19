@@ -2,19 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Researcher & Lecturer at EPFL.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: PortraitCropped.JPG
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -26,9 +23,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am a Postdoctoral Researcher & Lecturer at the [Security & Privacy Engineering Lab](https://spring.epfl.ch/) at EPFL (Switzerland) led by Carmela Troncoso.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research focuses on the potentially harmful aspects of data processing systems centred around questions such as: How to evaluate the privacy properties of opaque data processing systems?
+What are the privacy limits of machine learning-based applications? What learning tasks are solvable under good privacy and good utility simultaneously?
+My work has been featured on multiple [national media outlets](https://www.zeit.de/digital/datenschutz/2021-03/corona-app-luca-kontaktverfolgung-einsatz-umstritten-kontakte-politik-lobbyismus) and continues to [inform policy makers](https://edps.europa.eu/system/files/2021-12/techsonar_2021-2022_report_en.pdf) on a national and European level.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining EPFL, I previously worked as a researcher for Privitar, a London-based start-up, where I developed enterprise software that implements privacy-enhancing technologies and aims to makes these  technologies available to organisations at scale. I hold a PhD in Computer Science from EPFL (Switzerland) and a Master’s degree in Computational Neuroscience (Biomathematics)  from the University of Tübingen (Germany).
