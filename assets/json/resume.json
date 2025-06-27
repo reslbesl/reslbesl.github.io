@@ -26,7 +26,7 @@
     {
       "name": "EPFL",
       "location": "Lausanne, Switzerland",
-      "position": "Postdoctoral Researcher",
+      "position": "Postdoctoral Researcher & Lecturer",
       "startDate": "2025-01-01",
       "endDate": "",
       "summary": "Research and Teaching",
@@ -43,11 +43,11 @@
     },
     {
       "name": "Privitar",
-      "position": "Research Scientist",
+      "position": "Data Scientist",
       "location": "London, United Kingdom",
       "startDate": "2016-10-01",
       "endDate": "2019-08-01",
-      "summary": "Research and Product Development",
+      "summary": "Product Development, Research, and Consulting",
       "highlights": ["Several patents in the are of privacy-enhancing technologies"]
     },
     {
