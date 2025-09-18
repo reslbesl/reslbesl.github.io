@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-on-the-fundamental-limits-of-privacy-enhancing-technologies",
+        },{id: "post-purpose-first-the-need-for-a-paradigm-shift-in-privacy-preserving-data-sharing",
+        
+          title: "Purpose First - The Need for a Paradigm Shift in Privacy-preserving Data Sharing...",
+        
+        description: "New publication",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/c4dt/";
+          
+        },
+      },{id: "post-on-the-fundamental-limits-of-privacy-enhancing-technologies",
         
           title: "On the Fundamental Limits of Privacy-Enhancing Technologies",
         
@@ -116,6 +127,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-interview-with-svea-eckert-and-eva-wolfange-on-the-they-talk-tech-podcast-and-for-heise-online-about-privacy-engineering",
           title: 'Interview with Svea Eckert and Eva Wolfange on the “They talk Tech” podcast...',
+          description: "",
+          section: "News",},{id: "news-new-policy-paper-purpose-first-the-need-for-a-paradigm-shift-in-privacy-preserving-data-sharing",
+          title: 'New policy paper Purpose First: The Need for a Paradigm Shift in Privacy-preserving...',
           description: "",
           section: "News",},{id: "projects-analysis-of-real-world-systems",
           title: 'Analysis of Real-World Systems',
