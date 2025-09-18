@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-New policy paper [Purpose First: The Need for a Paradigm Shift in Privacy-preserving Data Sharing](http://reslbesl.github.io/blog/2024/c4dt/)
+New policy paper [Purpose First: The Need for a Paradigm Shift in Privacy-preserving Data Sharing](http://reslbesl.github.io/blog/2025/c4dt/)
