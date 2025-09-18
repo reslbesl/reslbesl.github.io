@@ -29,7 +29,10 @@
       "startDate": "2025-01-01",
       "endDate": "",
       "summary": "Research and Teaching",
-      "highlights": ["Research on privacy-enhancing technologies, such as, synthetic data, differential privacy, and privacy- preserving machine learning", "Lectures at BSc and MSc level on information security and privacy"]
+      "highlights": [
+        "Research on privacy-enhancing technologies, such as, synthetic data, differential privacy, and privacy- preserving machine learning",
+        "Lectures at BSc and MSc level on information security and privacy"
+      ]
     },
     {
       "name": "EPFL",
@@ -142,18 +145,13 @@
       "name": "Python",
       "level": "Expert",
       "icon": "fa-brand-python",
-      "keywords": [
-        "Object-oriented Programming"
-      ]
+      "keywords": ["Object-oriented Programming"]
     },
     {
       "name": "Machine Learning",
       "level": "Expert",
       "icon": "fa-ai",
-      "keywords": [
-        "Representation Learning",
-        "Trustworthy AI"
-      ]
+      "keywords": ["Representation Learning", "Trustworthy AI"]
     }
   ]
 }

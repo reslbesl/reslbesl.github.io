@@ -6,10 +6,11 @@ importance: 3
 category: privacy
 related_publications: true
 ---
+
 I was involved in the development and design of many real-world systems in which privacy played a key role.
 
 As part of the DP-3T project, I helped to develop a protocol for privacy-preserving decentralised proximity tracing {% cite TroncosoPH20 %} that was later adopted by many countries around the world {% cite TroncosoBB22 %}.
-At Privitar, I worked with a large number of organisations, across sectors and industries, to find general purpose technologies to enable the ethical and safe use of data {% cite Cabot2022method Mcfall2023computer %}. 
+At Privitar, I worked with a large number of organisations, across sectors and industries, to find general purpose technologies to enable the ethical and safe use of data {% cite Cabot2022method Mcfall2023computer %}.
 
 **Impact**
 

@@ -6,7 +6,8 @@ importance: 2
 category: privacy
 related_publications: true
 ---
-A large part of my research is dedicated to the analysis of real-world systems. 
+
+A large part of my research is dedicated to the analysis of real-world systems.
 Examples of this are our comparative analysis of the privacy and security risks of digital proximity tracing systems (a [DP-3T](https://github.com/DP-3T/documents/blob/master/Security%20analysis/Privacy%20and%20Security%20Attacks%20on%20Digital%20Proximity%20Tracing%20Systems.pdf) contribution)
 and our analysis of the potential harms of the LUCA tracing system {% cite StadlerLKT21%}.
 
@@ -14,7 +15,7 @@ Analysing the privacy properties of novel complex systems is a challenging task 
 The analysis process itself is thus an important part of our research.
 It helps us to understand how we reason about privacy in different types of systems and enables us to improve guidelines for practitioners.
 
-Beyond informing our research, our work has had a considerable impact on the design of digital aids for pandemic containment. 
+Beyond informing our research, our work has had a considerable impact on the design of digital aids for pandemic containment.
 
 **Impact**
 

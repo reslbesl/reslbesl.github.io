@@ -6,6 +6,7 @@ importance: 1
 category: privacy
 related_publications: true
 ---
+
 What does it mean to protect privacy in large-scale data processing systems?
 
 This is the most basic question we need to answer when designing systems that, we claim, are mindful of individuals’ privacy.
@@ -19,7 +20,6 @@ As an example, we developed a new [framework](https://github.com/spring-epfl/syn
 Using our framework, we demonstrated that many of the claims made about the "absolute privacy" ([NHS England](https://data.england.nhs.uk/dataset/a-e-synthetic-data)) synthetic data provides do not hold true.
 
 This is one example that shows how important it is to carefully evaluate the privacy properties of data processing systems.
-
 
 **Impact**
 

@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://www.pexels.com/" target="_blank">Pexels</a>.
 keywords: privacy, research, machine-learning, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🦒 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://reslbesl.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -252,7 +252,7 @@ jekyll-archives:
       categories: "/blog/:type/:name/"
 
 display_tags: ["privacy", "policy", "systems"] # these tags will be displayed on the front page of your blog
-display_categories:  # these categories will be displayed on the front page of your blog
+display_categories: # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
