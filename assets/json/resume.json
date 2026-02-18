@@ -5,7 +5,7 @@
     "email": "",
     "phone": "",
     "url": "",
-    "summary": "Researcher in data privacy and trustworthy AI with experience across industry and academia",
+    "summary": "Researcher in responsible and trustworthy AI with experience across industry and academia",
     "location": {
       "address": "",
       "postalCode": "",
@@ -23,11 +23,23 @@
   },
   "work": [
     {
+      "name": "SDSC",
+      "location": "Lausanne, Switzerland",
+      "position": "Senior Data Scientist",
+      "startDate": "2025-12-01",
+      "endDate": "",
+      "summary": "Data Science Consulting, Research, and Teaching",
+      "highlights": [
+        "Lead on multiple projects in the humanitarian data space",
+        "Collaborations with large humanitarian organisations such as the ICRC"
+      ]
+    },
+    {
       "name": "EPFL",
       "location": "Lausanne, Switzerland",
-      "position": "Postdoctoral Researcher & Lecturer",
+      "position": "Lecturer & Postdoctoral Researcher",
       "startDate": "2025-01-01",
-      "endDate": "",
+      "endDate": "2025-12-01",
       "summary": "Research and Teaching",
       "highlights": [
         "Research on privacy-enhancing technologies, such as, synthetic data, differential privacy, and privacy- preserving machine learning",
