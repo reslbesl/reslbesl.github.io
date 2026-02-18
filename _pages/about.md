@@ -26,7 +26,7 @@ latest_posts:
 
 I am a Senior Data Scientist at the [Swiss Data Science Center](https://datascience.ch/) in Lausanne (Switzerland) where I am part of the Innovation Team focused on data science projects in the humanitarian data space.
 
- Before joining the SDSC, I was a lecturer and postdoctoral researcher at the [Security & Privacy Engineering Lab](https://spring.epfl.ch/) at EPFL (Switzerland) led by Carmela Troncoso.
+Before joining the SDSC, I was a lecturer and postdoctoral researcher at the [Security & Privacy Engineering Lab](https://spring.epfl.ch/) at EPFL (Switzerland) led by Carmela Troncoso.
 
 My work focuses on the responsible deployment of data-driven technologies. To me, ''Responsible AI'' is more than just a buzzword. AI systems deployed in the real world impact real people with sometimes real adverse effects on their lived experiences. To avoid these, in my work, I follow some principles that I have distilled over the years:
 
